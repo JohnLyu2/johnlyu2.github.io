@@ -24,7 +24,7 @@ News
 - **Jun 2024** Happy to receive the Winter 2024 Faculty of Engineering (FOE) Graduate Scholarship at UWaterloo.
 - **May 2024** Attended the inaugural [AI-SCORE Summer School](https://ai-score.github.io/) and had so much fun!
 - **May 2024** Our IJCAI 2024 paper *[Layered and Staged Monte Carlo Tree Search for SMT Strategy Synthesis](https://arxiv.org/abs/2401.17159)* is accepted at **SMT 2024** for presentaiton-only. See you in Montreal in July!
-- **Apr 2024** Honored to be accepted as a Google Summer of Code (GSoC 2024) contributor, working with the SoSy-Lab at LMU Munich. The accepted project is titled *[Adaptive Algorithm Selection for Btor2 Verification Tasks](https://summerofcode.withgoogle.com/programs/2024/projects/FGmF8gS3)*. 
+- **Apr 2024** Honored to be accepted as a Google Summer of Code (GSoC 2024) contributor, working with the [SoSy-Lab](https://www.sosy-lab.org/) at LMU Munich. The accepted project is titled *[Adaptive Algorithm Selection for Btor2 Verification Tasks](https://summerofcode.withgoogle.com/programs/2024/projects/FGmF8gS3)*. 
 - **Apr 2024** Our paper *[Layered and Staged Monte Carlo Tree Search for SMT Strategy Synthesis](https://arxiv.org/abs/2401.17159)* is accepted at **IJCAI 2024**! See you in Jeju Island in August.
 - **Sep 2023** Happy to start working as the Website Chair for [CAV 2024](https://i-cav.org/2024/).
 - **Jul 2023** Offcially start my PhD journey at UWaterloo! Thanks for the generous funding from the [Engineering Excellence Doctoral Fellowship (EEDF)](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/engineering-excellence-masters-and-doctoral-fellowships-eemf). 
