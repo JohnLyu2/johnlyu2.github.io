@@ -27,5 +27,5 @@ News
 - **Apr 2024** Honored to be accepted as a Google Summer of Code (GSoC 2024) contributor, working with the [SoSy-Lab](https://www.sosy-lab.org/) at LMU Munich. The accepted project is titled *[Adaptive Algorithm Selection for Btor2 Verification Tasks](https://summerofcode.withgoogle.com/programs/2024/projects/FGmF8gS3)*. 
 - **Apr 2024** Our paper *[Layered and Staged Monte Carlo Tree Search for SMT Strategy Synthesis](https://arxiv.org/abs/2401.17159)* is accepted at **IJCAI 2024**! See you in Jeju Island in August.
 - **Sep 2023** Happy to start working as the Website Chair for [CAV 2024](https://i-cav.org/2024/).
-- **Jul 2023** Offcially start my PhD journey at UWaterloo! Thanks for the generous funding from the [Engineering Excellence Doctoral Fellowship (EEDF)](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/engineering-excellence-masters-and-doctoral-fellowships-eemf). 
-- **Jun 2023** My UWaterloo MASc thesis *[AlphaSMT: A Reinforcement Learning Guided SMT Solver](https://uwspace.uwaterloo.ca/handle/10012/19562)* has been accepted.
+- **Jul 2023** Offcially start my PhD journey at UWaterloo! Thanks for the generous funding from the [Engineering Excellence Doctoral Fellowship (EEDF)](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/engineering-excellence-masters-and-doctoral-fellowships-eemf) and the Deans Entrance Award. 
+- **Jun 2023** Check my recently accepted UWaterloo MASc thesis *[AlphaSMT: A Reinforcement Learning Guided SMT Solver](https://uwspace.uwaterloo.ca/handle/10012/19562)*.
