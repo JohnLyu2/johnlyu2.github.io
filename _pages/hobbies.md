@@ -14,5 +14,9 @@ I enjoy music a lot and appreciate most genres. Here are some of my favorite mus
 - **Rock:** Pink Floyd, 万能青年旅店, Queen, 惘闻, 伍佰 & China Blue, [Shanghai Qiutian](https://shqt.live/), 老王樂隊, 五条人, The Cranberries, King Crimson, The Beatles, Godspeed You! Black Emperor, 縱貫線 SuperBand
 - **Folk:** 安溥, 朴树, 林生祥
 - **Electronic:** 坂本 龍一
-- **Classical:** Frederic Chapin, Ólafur Arnalds, Lang Lang
+- **Classical:** Frederic Chapin, Ólafur Arnalds, 朗朗
 - **Fusion:** 福禄寿 FloruitShow, [行草 Grass Walkers](https://www.instagram.com/grasswalkers5/), Yanni
+
+## ⚽ Sports ##
+
+I have always loved playing soccer, but sadly, I got seriously injuired in a game in the summer of 2024. Hopefully I will be able to play again soon. I am a big Liverpool fan. 
