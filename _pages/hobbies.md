@@ -20,7 +20,7 @@ I enjoy listening to music a lot and appreciate most genres. Here are some of my
 ## 📚 Books ##
 Reading is an important part of my life, or rather, it breathes more lives into this one. I like how Harold Bloom talked about reading in *How to Read and Why*, saying that reading well is one of the great pleasures that solitude can offer, by returning oneself to otherness and as such alleviating loneliness. 
 
-Here are some book recommendations I enjoy:
+Here are some of my favourite books:
 
 ### Novels
 - *红楼梦 Dream of the Red Chamber* by 曹雪芹
@@ -31,6 +31,7 @@ Here are some book recommendations I enjoy:
 ### Short Stories
 - *South Highway* by Julio Cortázar
 - *Hills Like White Elephants* by Ernest Hemingway
+- *地獄変* by 芥川 龍之介
 
 ## ⚽ Sports ##
 
