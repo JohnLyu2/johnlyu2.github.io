@@ -21,6 +21,7 @@ My research interests lie at the intersection of machine learning and formal met
 News
 ======
 
+- **Jul 2024** I will serve as the Co-chair of the ECE Gradudate Student Association (ECEGSA) for the upcoming year. I’m excited to contribute to the community and help foster a supportive environment for fellow graduate students.
 - **Jun 2024** Happy to receive the Winter 2024 Faculty of Engineering (FOE) Graduate Scholarship at UWaterloo.
 - **May 2024** Attended the inaugural [AI-SCORE Summer School](https://ai-score.github.io/) and had so much fun!
 - **May 2024** Our IJCAI 2024 paper *[Layered and Staged Monte Carlo Tree Search for SMT Strategy Synthesis](https://arxiv.org/abs/2401.17159)* is accepted at **SMT 2024** for presentaiton-only. See you in Montreal in July!
