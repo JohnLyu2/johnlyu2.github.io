@@ -16,7 +16,7 @@ My research interests lie at the intersection of machine learning and formal met
 - Algorithm Selection and Strategy Synthesis for SMT
 - [Algorithm Selection for Verification](https://summerofcode.withgoogle.com/programs/2024/projects/FGmF8gS3)
 - [String Constraint Solving](https://z3string.github.io/)
-- Machine Learning for SAT: Reset and CnC Cubing
+- Machine Learning for SAT heuristics
 
 News
 ======
