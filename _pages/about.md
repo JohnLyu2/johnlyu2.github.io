@@ -14,14 +14,14 @@ I am a 2nd-year PhD student at the University of Waterloo, Canada, under the sup
 My research interests lie at the intersection of machine learning and formal methods. Some projects that I am currently working on include:
 
 - Algorithm Selection and Strategy Synthesis for SMT
-- Algorithm Selection for Verification
+- [Algorithm Selection for Verification](https://summerofcode.withgoogle.com/programs/2024/projects/FGmF8gS3)
 - [String Constraint Solving](https://z3string.github.io/)
 - Machine Learning for SAT: Reset and CnC Cubing
 
 News
 ======
-- **Jul 2024** My collaboraive work with the [ITSS Lab](https://www.civil.uwaterloo.ca/itss/), titled *[Temporal Fusion Transformer for Real-time Intersection Turning Movement Flow Forecasting Incorporating Exogenous Factors]* has been accepted for presentation at IEEE ITSC 2024!  
-- **Jul 2024** I will serve as the Co-chair of the [ECE Gradudate Student Association (ECEGSA)](https://uwaterloo.ca/electrical-computer-engineering-graduate-student-association/) for the upcoming year. I’m excited to contribute to the community and help foster a supportive environment for fellow graduate students.
+- **Jul 2024** Our solver [Z3-alpha](https://www.ijcai.org/proceedings/2024/0211.pdf) won multiple awards at [SMT-COMP 2024 (Single Query Track)](https://smt-comp.github.io/2024/results/results-single-query/)!  It achieved first place in both sequential and parallel performance in the QF_NonLinearIntArith and QF_NonLinearRealArith divisions, as well as the UNSAT-performance in QF_Datatypes and the SAT-performance in QF_LinearIntArith. 
+- **Jul 2024** I will serve as the Co-Chair of the [ECE Gradudate Student Association (ECEGSA)](https://uwaterloo.ca/electrical-computer-engineering-graduate-student-association/) for the upcoming year. I’m excited to contribute to the community and help foster a supportive environment for fellow graduate students.
 - **Jun 2024** Happy to receive the Winter 2024 Faculty of Engineering (FOE) Graduate Scholarship at UWaterloo.
 - **May 2024** Attended the inaugural [AI-SCORE Summer School](https://ai-score.github.io/) and had so much fun!
 - **May 2024** Our IJCAI 2024 paper *[Layered and Staged Monte Carlo Tree Search for SMT Strategy Synthesis](https://arxiv.org/abs/2401.17159)* is accepted at **SMT 2024** for presentaiton-only. See you in Montreal in July!
