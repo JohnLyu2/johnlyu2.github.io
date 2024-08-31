@@ -20,7 +20,7 @@ My research interests lie at the intersection of machine learning and formal met
 
 News
 ======
-- **Jul 2024** Our solver [Z3-alpha](https://www.ijcai.org/proceedings/2024/0211.pdf) won multiple awards at [SMT-COMP 2024 (Single Query Track)](https://smt-comp.github.io/2024/results/results-single-query/)!  It achieved first place in the QF_NonLinearIntArith and QF_NonLinearRealArith divisions and had the best UNSAT-performance in QF_Datatypes and the best SAT-performance in QF_LinearIntArith. 
+- **Jul 2024** Our solver [Z3-alpha](https://www.ijcai.org/proceedings/2024/0211.pdf) won multiple awards at [SMT-COMP 2024 (Single Query Track)](https://smt-comp.github.io/2024/results/results-single-query/)!  It achieved first place in QF_NonLinearIntArith and QF_NonLinearRealArith and had the best UNSAT-performance in QF_Datatypes and the best SAT-performance in QF_LinearIntArith. 
 - **Jul 2024** I will serve as the Co-Chair of the [ECE Gradudate Student Association (ECEGSA)](https://uwaterloo.ca/electrical-computer-engineering-graduate-student-association/) for the upcoming year. I’m excited to contribute to the community and help foster a supportive environment for fellow graduate students.
 - **Jun 2024** Happy to receive the Winter 2024 Faculty of Engineering (FOE) Graduate Scholarship at UWaterloo.
 - **May 2024** Attended the inaugural [AI-SCORE Summer School](https://ai-score.github.io/) and had so much fun!
