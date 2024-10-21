@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Beyond Academia"
-permalink: /hobbies/
+permalink: /misc/
 author_profile: true
 ---
 
