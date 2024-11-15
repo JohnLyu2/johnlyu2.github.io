@@ -20,9 +20,10 @@ My strongest research interest is to combine reasoning and learning. Below are s
 
 News
 ======
-- **Jul 2024** Our solver [Z3-alpha](https://www.ijcai.org/proceedings/2024/0211.pdf) won multiple awards at the pretigious [SMT-COMP 2024](https://smt-comp.github.io/2024/results/results-single-query/)! Z3-alpha excelled across serval divisions, including QF_Datatypes, QF_LinearIntArith, QF_NonLinearIntArith, and QF_NonLinearRealArith! Read more on [Georgia Tech News](https://research.gatech.edu/award-winning-software-tool-uses-innovative-approach). 
-- **Jul 2024** I will serve as the Co-Chair of the [ECE Gradudate Student Association (ECEGSA)](https://uwaterloo.ca/electrical-computer-engineering-graduate-student-association/) for the upcoming year. I’m excited to contribute to the community and help foster a supportive environment for fellow graduate students.
-- **Jun 2024** Happy to receive the Winter 2024 Faculty of Engineering (FOE) Graduate Scholarship at UWaterloo.
+- **Sep 2024**
+- **Sep 2024** I start serving as the [ECEGSA](https://uwaterloo.ca/electrical-computer-engineering-graduate-student-association/) Co-Chair of the upcoming year. I’m excited to contribute to the community and help foster a supportive and inclusive environment for fellow graduate students. Let me know if you have any ideas or suggestions for initiatives or events you’d like to see this year!
+- **Jul 2024** Our solver [Z3-alpha](https://www.ijcai.org/proceedings/2024/0211.pdf) won multiple awards at the pretigious [SMT-COMP 2024](https://smt-comp.github.io/2024/results/results-single-query/)! Z3-alpha excelled across divisions such as QF_Datatypes, QF_LinearIntArith, QF_NonLinearIntArith, and QF_NonLinearRealArith! Read more on [Georgia Tech News](https://research.gatech.edu/award-winning-software-tool-uses-innovative-approach). 
+- **Jun 2024** Happy to receive the Winter 2024 Faculty of Engineering (FOE) Graduate Scholarship at UWaterloo! Some more bucks to enjoy a decent dinner : )
 - **May 2024** Attended the inaugural [AI-SCORE Summer School](https://ai-score.github.io/) and had so much fun!
 - **May 2024** Our IJCAI 2024 paper *[Layered and Staged Monte Carlo Tree Search for SMT Strategy Synthesis](https://arxiv.org/abs/2401.17159)* is accepted at **SMT 2024** for presentaiton-only. See you in Montreal in July!
 - **Apr 2024** Honored to be accepted as a Google Summer of Code (GSoC 2024) contributor, working with the [SoSy-Lab](https://www.sosy-lab.org/) at LMU Munich. The accepted project is titled *[Adaptive Algorithm Selection for Btor2 Verification Tasks](https://summerofcode.withgoogle.com/programs/2024/projects/FGmF8gS3)*. 
