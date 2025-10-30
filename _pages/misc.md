@@ -36,4 +36,4 @@ Here are some of my favourite books:
 
 ## ⚽ Sports ##
 
-I have always loved playing soccer, but sadly, I got seriously injuired in an intramural game in the summer of 2024. Hopefully I will be able to play again soon. Besides, I am a big Liverpool fan. 
+I’m a big soccer fan and a supporter of Liverpool — you’ll never walk alone!
