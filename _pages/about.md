@@ -27,7 +27,7 @@ My research focuses on AI/ML for reasoning, with applications in software engine
 
 News
 ======
-- *[Sep 2025]*  I completed a four-month researchinternship at [NII](https://www.nii.ac.jp/en/), working on *Deep Reinforcement Learning for Probabilistic Program Verification*. Many thanks to my host [Ichiro Hasuo](https://group-mmm.org/~ichiro/) for the wonderful guidance and support!
+- *[Sep 2025]*  I completed a four-month research internship at [NII](https://www.nii.ac.jp/en/), working on *Deep Reinforcement Learning for Probabilistic Program Verification*. Many thanks to my host [Ichiro Hasuo](https://group-mmm.org/~ichiro/) for the wonderful guidance and support!
 - *[May 2025]*  Our paper [*Btor2-Select: Machine Learning Based Algorithm Selection for Hardware Model Checking*](https://www.sosy-lab.org/research/btor2-select/) is accepted to **CAV 2025**!
 - *[Feb 2025]*  I co-organized and presented the AAAI’25 tutorial [ML for Solvers](https://ml-for-solvers.github.io/)! You can check the slides and materials on our [website](https://ml-for-solvers.github.io/).
 - *[Nov 2024]*  I successfully completed my [**Google Summer of Code project**](https://summerofcode.withgoogle.com/programs/2024/projects/FGmF8gS3)! Many thanks to my GSoC mentors [Po-Chun Chien](https://www.sosy-lab.org/people/chien/) and [Nian-Ze Lee](https://nianzelee.github.io/) from LMU Munich. During this project, we developed the first [ML-based algorithm selector](https://gitlab.com/sosy-lab/software/btor2-select) for the Btor2 hardware verificaiton problem.
