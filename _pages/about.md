@@ -25,7 +25,7 @@ and [Dirk Beyer](https://www.sosy-lab.org/)'s group at LMU Munich.  -->
 
 News
 ======
-- *[Sep 2025]*  I completed a 4-month research internship at [NII](https://www.nii.ac.jp/en/), working on *Deep Reinforcement Learning for Probabilistic Program Verification*. Many thanks to my host [Ichiro Hasuo](https://group-mmm.org/~ichiro/) for the wonderful guidance and support!
+- *[Sep 2025]*  I completed a 4-month research internship at [NII](https://www.nii.ac.jp/en/), working on *Probabilistic Program Verification*. Many thanks to my host [Ichiro Hasuo](https://group-mmm.org/~ichiro/) for the wonderful guidance and support!
 - *[May 2025]*  Our paper [*Btor2-Select: Machine Learning Based Algorithm Selection for Hardware Model Checking*](https://www.sosy-lab.org/research/btor2-select/) is accepted to **CAV 2025**!
 - *[May 2025]*  Honored to receive [**NSERC CGS-D**](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program), a top-tier Canadian federal PhD scholarship.
 - *[Feb 2025]*  I co-organized and presented the AAAI’25 tutorial [ML for Solvers](https://ml-for-solvers.github.io/)! You can check the slides and materials on our [website](https://ml-for-solvers.github.io/).
