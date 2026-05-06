@@ -10,7 +10,7 @@ redirect_from:
 Hi, this is John Lü 吕正旸. Welcome to my personal webpage!
 
 I am a 4th-year PhD student in Computer Engineering at UWaterloo, supervised by 
-[Vijay Ganesh](https://vganesh1.github.io/) and [Arie Gurfinkel](https://arieg.bitbucket.io/). My research focuses on formal verification, with applications in both software and hardware systems.
+[Vijay Ganesh](https://vganesh1.github.io/) and [Arie Gurfinkel](https://arieg.bitbucket.io/). My research focuses on learning-guided formal verification, with applications in both software and hardware systems.
 
 <!-- I am also collarbating with [Florin Manea](https://flmanea.blogspot.com/)'s group at the Universty of Göttingen 
 and [Dirk Beyer](https://www.sosy-lab.org/)'s group at LMU Munich.  -->
