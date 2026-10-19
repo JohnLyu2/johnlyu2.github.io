@@ -39,3 +39,64 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Homepage research hierarchy: themes contain individual project cards. */
+.research-themes {
+  margin: 2.25rem 0;
+}
+.page__content .research-theme {
+  --theme-accent: #245b76;
+  margin: 0 0 2rem;
+  padding: 1.5rem;
+  border: 1px solid #dbe4e9;
+  border-top: 4px solid var(--theme-accent);
+  border-radius: 10px;
+  background: #f3f7fa;
+
+  &--2 {
+    --theme-accent: #625087;
+    background: #f7f5fa;
+    border-color: #e3ddec;
+    border-top-color: var(--theme-accent);
+  }
+
+  .research-theme__label {
+    margin: 0 0 .5rem;
+    color: var(--theme-accent);
+    font-size: .65em;
+    font-weight: 700;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+  }
+
+  h2 {
+    margin: 0 0 .45rem;
+    padding: 0;
+    border: 0;
+    color: var(--theme-accent);
+    font-size: 1.6em;
+  }
+
+  > p { font-size: .9em; }
+  > p > em { font-style: normal; font-weight: 600; }
+}
+.research-projects {
+  display: grid;
+  gap: .85rem;
+  margin-top: 1.25rem;
+}
+.page__content .research-project {
+  padding: 1.1rem 1.2rem;
+  border: 1px solid #dde2e8;
+  border-radius: 6px;
+  background: #fff;
+
+  h3 { margin: 0 0 .55rem; font-size: 1em; }
+  p { margin: 0 0 .75rem; font-size: .85em; line-height: 1.65; }
+  p:last-child { margin-bottom: 0; }
+  a { color: #245b76; text-underline-offset: 3px; }
+}
+@media (max-width: 600px) {
+  .page__content .research-theme { padding: 1rem; }
+  .page__content .research-project { padding: .9rem; }
+}

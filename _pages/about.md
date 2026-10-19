@@ -7,22 +7,75 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is John Lü 吕正旸. Welcome to my personal webpage!
+I’m John Zhengyang Lü (吕正旸), a PhD candidate at the University of Waterloo. I have worked as a research intern at Google and Japan’s National Institute of Informatics (NII). I work on **formal verification of AI systems** and **learning-guided automated reasoning**.
 
-I am a 4th-year PhD student in Computer Engineering at UWaterloo, supervised by 
-[Vijay Ganesh](https://vganesh1.github.io/) and [Arie Gurfinkel](https://arieg.bitbucket.io/). My research focuses on learning-guided formal verification for computer systems.
+<div class="research-themes" markdown="1">
 
-<!-- I am also collarbating with [Florin Manea](https://flmanea.blogspot.com/)'s group at the Universty of Göttingen 
-and [Dirk Beyer](https://www.sosy-lab.org/)'s group at LMU Munich.  -->
+<section class="research-theme research-theme--1" aria-labelledby="theme-1" markdown="1">
 
-<!-- - Algorithm Selection and [Strategy Synthesis](https://www.ijcai.org/proceedings/2024/0211.pdf) for SMT
-- [Algorithm Selection for Verification](https://summerofcode.withgoogle.com/programs/2024/projects/FGmF8gS3)
-- Machine Learning for SAT heuristics -->
+<p class="research-theme__label">Research theme 01</p>
+<h2 id="theme-1">Verify AI</h2>
 
-<!-- Experiences
-====== -->
+*Formal methods for trustworthy AI systems.*
 
+<div class="research-projects" markdown="1">
 
+<article class="research-project" markdown="1">
+
+### Verify KV Cache Management and Transfer @ Google Cloud
+
+Formally verify [TPU Sync](https://github.com/JohnLyu2/tpu-sync), a library for TPU KV cache management and data transfers, using Lean 4. Build a Lean-model-based agent to assist internal development and maintenance.
+
+[GitHub](https://github.com/JohnLyu2/tpu-sync/tree/main/verification)
+
+</article>
+
+<article class="research-project" markdown="1">
+
+### Verify RISC-V AI Accelerators @ Google Research
+
+Build an automated formal verification pipeline for RISC-V AI accelerators such as Google's [Coral NPU](https://github.com/google-coral/coralnpu).
+
+</article>
+
+</div>
+</section>
+
+<section class="research-theme research-theme--2" aria-labelledby="theme-2" markdown="1">
+
+<p class="research-theme__label">Research theme 02</p>
+<h2 id="theme-2">Learn to Reason</h2>
+
+*Learning-guided automated reasoning and formal verification.*
+
+<div class="research-projects" markdown="1">
+
+<article class="research-project" markdown="1">
+
+### Learning-Guided SMT Solver @ UWaterloo
+
+Z3-alpha uses reinforcement learning and multimodal learning to optimize SMT solver heuristics. It won multiple divisions at SMT-COMP in 2024, 2025, and 2026.
+
+[Paper [IJCAI’24]](https://doi.org/10.24963/ijcai.2024/211) · [Paper [Acta Informatica’25]](https://doi.org/10.1007/s00236-025-00495-x) · [Paper [CP’26]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2026.41) · [GitHub](https://github.com/JohnLyu2/z3alpha)
+
+</article>
+
+<article class="research-project" markdown="1">
+
+### Learning for Hardware Model Checking @ Google Summer of Code
+
+Btor2-Select uses graph learning to guide hardware model checking. It won two bronze medals at HWMCC 2025.
+
+[Paper [CAV’25]](https://doi.org/10.1007/978-3-031-98668-0_15) · [Paper [AAAI’25]](https://ojs.aaai.org/index.php/AAAI/article/view/35275) · [GitLab](https://gitlab.com/sosy-lab/software/btor2-select) · [GSoC](https://summerofcode.withgoogle.com/programs/2024/projects/FGmF8gS3)
+
+</article>
+
+</div>
+</section>
+
+</div>
+
+{% comment %}
 News
 ======
 - *[Sep 2025]*  I completed a 4-month research internship at [NII](https://www.nii.ac.jp/en/), working on *Probabilistic Program Verification*. Many thanks to my host [Ichiro Hasuo](https://group-mmm.org/~ichiro/) for the wonderful guidance and support!
@@ -36,4 +89,5 @@ News
 - *[Jul 2024]*  Our solver [Z3-alpha](https://github.com/JohnLyu2/z3alpha) won [multiple awards](https://drive.google.com/file/d/1dEeJFfzjJz4vp-mU5XiGnR-hHJdsU1QZ/view?usp=sharing) at **SMT-COMP 2024**! It excelled across divisions such as QF_Datatypes, QF_LinearIntArith, QF_NonLinearIntArith, and QF_NonLinearRealArith! Read more on [Georgia Tech News](https://research.gatech.edu/award-winning-software-tool-uses-innovative-approach). 
 - *[May 2024]*  Attended the inaugural [AI-SCORE Summer School](https://ai-score.github.io/) and had so much fun!
 - *[Sep 2023]*  Start working as the Website Chair for [CAV 2024](https://i-cav.org/2024/).
-- *[Jul 2023]*  Offcially start my PhD journey at UWaterloo! Thanks for the generous funding from the [Engineering Excellence Doctoral Fellowship (EEDF)](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/engineering-excellence-masters-and-doctoral-fellowships-eemf) and the Deans Entrance Award. 
+- *[Jul 2023]*  Offcially start my PhD journey at UWaterloo! Thanks for the generous funding from the [Engineering Excellence Doctoral Fellowship (EEDF)](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/engineering-excellence-masters-and-doctoral-fellowships-eemf) and the Deans Entrance Award.
+{% endcomment %}
