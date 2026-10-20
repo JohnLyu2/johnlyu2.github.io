@@ -100,3 +100,33 @@
   .page__content .research-theme { padding: 1rem; }
   .page__content .research-project { padding: .9rem; }
 }
+
+
+/* Publication entries retain citation detail without competing with titles. */
+.page__content .publication-list {
+  .publication-year { color: #625087; margin-top: 1.6rem; }
+  .publication-entry { padding: 0 0 1.15rem; margin-bottom: 1.15rem; border-bottom: 1px solid #e3e6e8; }
+  h4 { margin: 0 0 .4rem; font-size: 1em; line-height: 1.5; }
+  p { margin: 0 0 .35rem; font-size: .82em; line-height: 1.6; }
+  .publication-venue { color: #5d656b; }
+}
+#research { scroll-margin-top: 1.5rem; }
+
+
+.page__content .cv-experience {
+  margin: 0 0 1.4rem;
+  padding: 0 0 1.25rem;
+  border-bottom: 1px solid #e3e6e8;
+  h3 { margin: 0 0 .35rem; font-size: 1.05em; }
+  .cv-experience__meta {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: .3rem 1rem;
+    margin-bottom: .55rem;
+    font-size: .82em;
+    color: #5d656b;
+    span:first-child { font-weight: 600; color: #245b76; }
+  }
+  p { margin: 0; font-size: .88em; line-height: 1.65; }
+}

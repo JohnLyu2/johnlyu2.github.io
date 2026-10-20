@@ -1,0 +1,151 @@
+[
+  {
+    "id": "smtselect_foiks2026",
+    "title": "Learning SMT Algorithm Selection with High-Level Natural-Language Descriptions",
+    "authors": [
+      "Zhengyang Lu",
+      "Paul Sarnighausen-Cahn",
+      "Jiahao Chen",
+      "Arie Gurfinkel",
+      "Florin Manea",
+      "Vijay Ganesh"
+    ],
+    "year": 2026,
+    "venue": "Foundations of Information and Knowledge Systems - 14th International Symposium, FoIKS 2026, Hanover, Germany, March 23-26, 2026, Proceedings",
+    "url": "https://doi.org/10.1007/978-3-032-21540-6_23",
+    "preprint": false,
+    "code": null
+  },
+  {
+    "id": "smtselect2026",
+    "title": "Learning Unified Graph and Language Representations for SMT Algorithm Selection",
+    "authors": [
+      "Zhengyang Lu",
+      "Paul Sarnighausen-Cahn",
+      "Jiahao Chen",
+      "Arie Gurfinkel",
+      "Florin Manea",
+      "Vijay Ganesh"
+    ],
+    "year": 2026,
+    "venue": "The 32nd International Conference on Principles and Practice of Constraint Programming (CP 2026)",
+    "url": "https://doi.org/10.4230/LIPIcs.CP.2026.41",
+    "preprint": false,
+    "code": null
+  },
+  {
+    "id": "btor2select_student",
+    "title": "Algorithm Selection for Word-Level Hardware Model Checking (Student Abstract)",
+    "authors": [
+      "Zhengyang Lu",
+      "Po-Chun Chien",
+      "Nian-Ze Lee",
+      "Vijay Ganesh"
+    ],
+    "year": 2025,
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "url": "https://doi.org/10.1609/aaai.v39i28.35275",
+    "preprint": false,
+    "code": "https://gitlab.com/sosy-lab/software/btor2-select"
+  },
+  {
+    "id": "btor2select",
+    "title": "Btor2-Select: Machine Learning Based Algorithm Selection for Hardware Model Checking",
+    "authors": [
+      "Zhengyang Lu",
+      "Po-Chun Chien",
+      "Nian-Ze Lee",
+      "Arie Gurfinkel",
+      "Vijay Ganesh"
+    ],
+    "year": 2025,
+    "venue": "Computer Aided Verification: 37th International Conference, CAV 2025, Zagreb, Croatia, July 23-25, 2025, Proceedings, Part I",
+    "url": "https://doi.org/10.1007/978-3-031-98668-0_15",
+    "preprint": false,
+    "code": "https://gitlab.com/sosy-lab/software/btor2-select"
+  },
+  {
+    "id": "z3alpha_acta_2025",
+    "title": "Novel tree-search method for synthesizing SMT strategies",
+    "authors": [
+      "Zhengyang Lu",
+      "Joel Day",
+      "Piyush Jha",
+      "Paul Sarnighausen-Cahn",
+      "Stefan Siemer",
+      "Florin Manea",
+      "Vijay Ganesh"
+    ],
+    "year": 2025,
+    "venue": "Acta Informatica",
+    "url": "https://doi.org/10.1007/s00236-025-00495-x",
+    "preprint": false,
+    "code": "https://github.com/JohnLyu2/z3alpha"
+  },
+  {
+    "id": "rl_reset_2024",
+    "title": "A Reinforcement Learning based Reset Policy for CDCL SAT Solvers",
+    "authors": [
+      "Chunxiao Li",
+      "Charlie Liu",
+      "Jonathan Chung",
+      "Zhengyang Lu",
+      "Piyush Jha",
+      "Vijay Ganesh"
+    ],
+    "year": 2024,
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/ARXIV.2404.03753",
+    "preprint": true,
+    "code": null
+  },
+  {
+    "id": "alphamaplesat_2024",
+    "title": "AlphaMapleSAT: An MCTS-based Cube-and-Conquer SAT Solver for Hard Combinatorial Problems",
+    "authors": [
+      "Piyush Jha",
+      "Zhengyu Li",
+      "Zhengyang Lu",
+      "Curtis Bright",
+      "Vijay Ganesh"
+    ],
+    "year": 2024,
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/ARXIV.2401.13770",
+    "preprint": true,
+    "code": null
+  },
+  {
+    "id": "z3alpha_2024",
+    "title": "Layered and Staged Monte Carlo Tree Search for SMT Strategy Synthesis",
+    "authors": [
+      "Zhengyang Lu",
+      "Stefan Siemer",
+      "Piyush Jha",
+      "Joel Day",
+      "Florin Manea",
+      "Vijay Ganesh"
+    ],
+    "year": 2024,
+    "venue": "Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, IJCAI-24",
+    "url": "https://doi.org/10.24963/ijcai.2024/211",
+    "preprint": false,
+    "code": "https://github.com/JohnLyu2/z3alpha"
+  },
+  {
+    "id": "tft_traffic_2024",
+    "title": "Temporal Fusion Transformer for Real-Time Intersection Turning Movement Flow Forecasting Incorporating Exogenous Factors",
+    "authors": [
+      "Ce Zhang",
+      "Guangyuan Pan",
+      "Matthew I. Muresan",
+      "Zhengyang Lu",
+      "Liping Fu"
+    ],
+    "year": 2024,
+    "venue": "27th IEEE International Conference on Intelligent Transportation Systems, ITSC 2024, Edmonton, AB, Canada, September 24-27, 2024",
+    "url": "https://doi.org/10.1109/ITSC58415.2024.10919975",
+    "preprint": false,
+    "code": null
+  }
+]

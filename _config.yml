@@ -137,8 +137,26 @@ analytics:
 include:
   - .htaccess
   - _pages
-  - files
 exclude:
+  - _publications
+  - _posts
+  - _talks
+  - _teaching
+  - files
+  - _pages/portfolio.html
+  - _pages/collection-archive.html
+  - _pages/archive-layout-with-content.md
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/non-menu-page.md
+  - _pages/terms.md
+  - _pages/category-archive.html
+  - _pages/tag-archive.html
+  - _pages/year-archive.html
+  - _pages/talkmap.html
+  - _pages/page-archive.html
+  - _pages/markdown.md
+  - scripts
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

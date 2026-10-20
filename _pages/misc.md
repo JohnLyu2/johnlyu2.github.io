@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Beyond Academia"
+title: "Beyond Research"
 permalink: /misc/
 author_profile: true
 ---

@@ -9,7 +9,7 @@ redirect_from:
 
 I’m John Zhengyang Lü (吕正旸), a PhD candidate at the University of Waterloo. I have worked as a research intern at Google and Japan’s National Institute of Informatics (NII). I work on **formal verification of AI systems** and **learning-guided automated reasoning**.
 
-<div class="research-themes" markdown="1">
+<div id="research" class="research-themes" markdown="1">
 
 <section class="research-theme research-theme--1" aria-labelledby="theme-1" markdown="1">
 

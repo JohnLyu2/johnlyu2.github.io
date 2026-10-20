@@ -1,64 +1,68 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Experience
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<div class="cv-experiences">
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<article class="cv-experience">
+<h3>Google</h3>
+<div class="cv-experience__meta"><span>Research Intern</span><span>August–December 2026</span></div>
+<p>Formal verification of TPU infrastructure and RISC-V AI accelerators.</p>
+</article>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<article class="cv-experience">
+<h3>Project Numina</h3>
+<div class="cv-experience__meta"><span>Contributor</span><span>March–December 2025</span></div>
+<p>Natural-language and Lean 4 mathematical datasets.</p>
+</article>
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<article class="cv-experience">
+<h3>National Institute of Informatics, Japan</h3>
+<div class="cv-experience__meta"><span>Research Intern</span><span>May–September 2025</span></div>
+<p>Reinforcement learning for probabilistic program verification.</p>
+</article>
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<article class="cv-experience">
+<h3>Google Summer of Code / LMU Munich</h3>
+<div class="cv-experience__meta"><span>Contributor</span><span>May–November 2024</span></div>
+<p>Adaptive Algorithm Selection for Hardware Verification</p>
+</article>
+
+</div>
+
+## Education
+
+<div class="cv-education">
+<article class="cv-experience">
+<h3>University of Waterloo</h3>
+<div class="cv-experience__meta"><span>PhD candidate</span><span>2023–2027</span></div>
+<p>Electrical and Computer Engineering</p>
+</article>
+
+<article class="cv-experience">
+<h3>University of Waterloo</h3>
+<div class="cv-experience__meta"><span>MASc</span><span>2021–2023</span></div>
+<p>Electrical and Computer Engineering</p>
+</article>
+
+<article class="cv-experience">
+<h3>Tongji University</h3>
+<div class="cv-experience__meta"><span>BEng</span></div>
+</article>
+</div>
+
+## Selected honors and activities
+
+- NSERC Canada Graduate Scholarship–Doctoral, 2025–2027.
+- Z3-alpha: multiple division wins at SMT-COMP 2024, 2025, and 2026.
+- Btor2-Select: two bronze medals at HWMCC 2025.
+- Co-organizer, [Machine Learning for Solvers tutorial](https://ml-for-solvers.github.io/), AAAI 2025.
+
+See [Publications]({{ '/publications/' | relative_url }}) for papers and [Research]({{ '/' | relative_url }}#research) for current projects.
